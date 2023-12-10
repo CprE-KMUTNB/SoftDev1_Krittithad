@@ -1,12 +1,9 @@
 # Smart Farm using Zigbee2MQTT & Arduino
 
-## Team Member & Task Assignments
+## Team Member
 - **SERMCHART LEELASAKULMEKEART (6501012620047)**  
-  Task: Hardware Interaction
 - **NORAWIT BOONLERTRAT (6501012610068)**  
-  Task: Database
 - **KRITTITHAD VIBOONSUNTI (6501012630018)**  
-  Task: Node-red interface
 
 ## Scope of Work
 - Using Zigbee2mqtt button to manually control the function of Smart Farm

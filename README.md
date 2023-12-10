@@ -1,11 +1,11 @@
 # Smart Farm using Zigbee2MQTT & Arduino
 
 ## Team Member & Task Assignments
-- **นายเสริมชาติ ลีละสกุลมีเกียรติ (6501012620047)**  
+- **SERMCHART LEELASAKULMEKEART (6501012620047)**  
   Task: Hardware Interaction
-- **นายนรวิชญ์ บุญเลิศรัตน์ (6501012610068)**  
+- **NORAWIT BOONLERTRAT (6501012610068)**  
   Task: Database
-- **นายกฤติทัต วิบุลสันติ (6501012630018)**  
+- **KRITTITHAD VIBOONSUNTI (6501012630018)**  
   Task: Node-red interface
 
 ## Scope of Work
